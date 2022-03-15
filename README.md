@@ -6,7 +6,7 @@ Mercedes Cars Data Analysis
 
 1. Data is sourced from Kaggle
 2. Manipulation is done by Google Colab
-3. Modeling is done using Linear and NonLinear patterns
+3. Modeling is done using Linear and NonLinear patterns.
 
 # **Derived Business Insights:**
 
